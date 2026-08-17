@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Automiq">
+  <rect width="64" height="64" rx="8" fill="#0d1117"/>
+  <path d="M15 46 27 17h10l12 29h-9l-2-6H26l-2 6h-9Zm14-14h6l-3-9-3 9Z" fill="#b8ff3d"/>
+  <rect x="46" y="18" width="4" height="4" fill="#f6f4ed"/>
+</svg>
